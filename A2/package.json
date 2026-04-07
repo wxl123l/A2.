@@ -1,0 +1,13 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "TypeScript-based inventory management system",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": ["typescript", "inventory", "management"],
+  "author": "",
+  "license": "MIT"
+}
